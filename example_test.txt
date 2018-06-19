@@ -1,0 +1,10 @@
+Question1?	A`B`C`D	A
+Question2?	A`B`C`D	C
+Question3?	A`B`C`D	B
+Question4?	A`B`C`D	B
+Question5?	A`B`C`D	A
+Question6?	A`B`C`D	A
+Question7?	A`B`C`D	B
+Question8?	A`B`C`D	A
+Question9?	A`B`C`D	D
+Question10?	A`B`C`D	C
