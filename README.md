@@ -4,6 +4,7 @@ A fun program to test your knowledge with multiple choice questions. I developed
 
 Files with the questions and answers should be made in the following format:
   * Question1? <tab> A\`B\`C\`D <tab> Answer
+
 Example:
   * In which language is Quizer programmed? Python\`Java\`R\`Matlab  Python
   
