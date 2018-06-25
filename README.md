@@ -3,7 +3,7 @@
 A fun program to test your knowledge with multiple choice questions. I developed this mostly for myself to prepare for exams. I hope that those who use it will find it helpfull. One can give a file with questions and answers which Quizer will use to make randomized tests.
 
 Files with the questions and answers should be made in the following format:
-  * Question1? <tab> A\`B\`C\`D <tab> Answer
+  * Question1? <\tab> A\`B\`C\`D <\tab> Answer
 
 Example:
   * In which language is Quizer programmed? Python\`Java\`R\`Matlab  Python
